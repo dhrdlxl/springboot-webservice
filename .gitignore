@@ -5,3 +5,11 @@ build
 
 # MAC OS
 .DS_Store
+
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
